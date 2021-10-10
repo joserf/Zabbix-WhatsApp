@@ -1,2 +1,2 @@
 # Zabbix-WhatsApp
-Alertas do Zabbix no WhastApp
+Alertas do Zabbix no WhatsApp
